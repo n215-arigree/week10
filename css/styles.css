@@ -36,3 +36,17 @@ nav a {
 .home img {
     height: 300px;
 }
+.home .testButton{
+    width: 100px;
+    height: 25px;
+    padding: 20px 10px;
+    background-color: bisque;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
